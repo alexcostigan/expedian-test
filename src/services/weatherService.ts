@@ -1,5 +1,3 @@
-// src/services/weatherService.ts
-
 import axios from 'axios';
 
 export interface DailyWeatherData {
